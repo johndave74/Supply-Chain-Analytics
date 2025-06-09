@@ -4,7 +4,8 @@
 
 This project presents a **Supply Chain Report** developed using **Power BI**, showcasing key performance metrics across products, customers, suppliers, and logistics. It is designed to offer actionable insights for supply chain optimization, profitability, and strategic planning.
 
--- 
+---
+
 ### Overview
 
 ![Screenshot 2025-06-09 103857](https://github.com/user-attachments/assets/91a5be13-c9ad-498f-94b8-bd08826cbff7)
